@@ -20,5 +20,7 @@ class Person {
         self.email = email
         self.password = password
         
+        print ("Test")
+        
     }
 }
