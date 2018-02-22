@@ -22,5 +22,7 @@ class Person {
         
         print ("Test")
         
+        print ("Second Test")
+        
     }
 }
