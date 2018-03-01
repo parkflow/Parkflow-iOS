@@ -10,9 +10,11 @@ import Foundation
 
 class Person {
     
-    let name: String
+    let first_name: String
+    let last_name: String
     let email: String
     let password: String
+    //let credit_card: CreditCard //https://thinkmobiles.com/blog/how-much-cost-make-app-like-uber/
     
     init(name: String, email: String, password: String){
         
