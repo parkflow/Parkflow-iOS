@@ -16,7 +16,7 @@ class Person {
     let password: String
     //let credit_card: CreditCard //https://thinkmobiles.com/blog/how-much-cost-make-app-like-uber/
     
-    init(name: String, email: String, password: String){
+    init(name: String, first_name: String, last_name: String, email: String, password: String){
         
         self.first_name = first_name
         self.last_name = last_name
