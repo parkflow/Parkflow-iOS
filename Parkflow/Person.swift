@@ -15,6 +15,8 @@ class Person {
     let email: String
     let password: String
     //let credit_card: CreditCard //https://thinkmobiles.com/blog/how-much-cost-make-app-like-uber/
+    //To continue Database coonection: MySql Workbench to Google cloud Database:
+    //       https:cloud.google.com/sql/docs/mysql/admin-tools#workbench
     
     init(name: String, first_name: String, last_name: String, email: String, password: String){
         
