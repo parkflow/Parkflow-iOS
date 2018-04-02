@@ -18,7 +18,7 @@ class Person {
     //To continue Database coonection: MySql Workbench to Google cloud Database:
     //       https:cloud.google.com/sql/docs/mysql/admin-tools#workbench
     
-    init(name: String, first_name: String, last_name: String, email: String, password: String){
+    init(first_name: String, last_name: String, email: String, password: String){
         
         self.first_name = first_name
         self.last_name = last_name

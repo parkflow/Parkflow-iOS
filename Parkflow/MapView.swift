@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MapView.swift
 //  Parkflow
 //
 //  Created by Karl Michel Koerich on 2018-01-10.
